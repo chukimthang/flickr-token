@@ -31,8 +31,8 @@ $uploader = new ChipVN_ImageUploader_Plugins_Flickr();
 
 //$api = random_element($config['api_keys']);
 $api = [
-    'key' => '656c040092d8a0ffdfca9c57504f85d0',
-    'secret' => '56da9e219110a5fd',
+    'key' => 'cff73319fe79c5675e6d319110ec2e70',
+    'secret' => 'a63059bbd29c70f7',
 ];
 
 $uploader->setApi($api['key']);
